@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Inspiration&family=Poppins:ital,wght@0,400;0,500;0,700;1,100&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins';
+}
+
+
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: url("https://png.pngtree.com/background/20210711/original/pngtree-gorgeous-fireworks-celebration-background-picture-image_1123847.jpg") no-repeat;
+    background-size: cover;
+    color : white;
+    
+}
+
+.counter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p{
+    font-size: 12px;
+    font-size: medium;
+}
+
+.newyear{
+    font-family: 'inspiration';
+    font-size: 50px;
+    font-weight: 400;
+}
+
+.box{
+    width: 50px;
+    height: 50px;
+    margin-top: 20px;
+    padding: 10px;
+    text-align: center;
+}
