@@ -10,9 +10,6 @@ You can access the live project [here](https://eshwar1213.github.io/New-Year-Cou
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
